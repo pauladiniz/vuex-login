@@ -1,6 +1,6 @@
 # login-vuex
 
-> My neat Nuxt.js project
+Simple login with VUEX + Reqres API https://reqres.in/
 
 ## Build Setup
 
